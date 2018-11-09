@@ -8,6 +8,7 @@ public class Main {
 		
 		System.out.println("hello world");
 		System.out.println("kiab est la");
+		System.out.println("git est pas mal");
 		
 	}
 
